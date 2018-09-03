@@ -1,4 +1,4 @@
-# browser-history
+# back-forward
 C++ terminal app simulating the back/forward functionality in a browser
 
 This program uses class composition with a doubly-linked list as the core data structure.
